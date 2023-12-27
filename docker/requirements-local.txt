@@ -1,0 +1,3 @@
+redshift-connector
+sqlalchemy-redshift
+psycopg2
